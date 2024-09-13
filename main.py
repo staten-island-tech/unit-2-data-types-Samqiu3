@@ -1,3 +1,5 @@
-x = 3
-y = float(3)
-print(x,y)
+number_odd_even = input("Type number")
+if number_odd_even == "%":
+    print("correct")
+else:
+    print("incorrect")
