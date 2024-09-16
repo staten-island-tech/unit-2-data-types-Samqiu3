@@ -1,5 +1,8 @@
-number_odd_even = input("Type number")
-if number_odd_even == "%":
-    print("correct")
-else:
-    print("incorrect")
+number_words = input("type sentence")
+x=number_words
+x=int()
+
+""" num = 2
+    print('odd')
+elif num % 2 == 0:
+    print('even') """
