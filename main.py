@@ -1,8 +1,5 @@
-number_words = input("type sentence")
-x=number_words
-x=int()
-
-""" num = 2
+num = 9
+if num % 2 > 0 :
     print('odd')
 elif num % 2 == 0:
-    print('even') """
+    print('even') 
