@@ -1,4 +1,6 @@
-A=input("Type a noun")
+A=input("Type a object")
 B=input("Type a ajective ")
+C=input("type a place")
 print("As you walk in the park you see a " + A)
 print("You turn to your friend and say 'Wow that is a " + B + " " + A + "'")
+print("You and your friend walk to " + C)
